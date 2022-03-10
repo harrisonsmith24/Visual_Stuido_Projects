@@ -1,0 +1,11 @@
+D:\C# program files\Smith_10.6\Smith_10.6\bin\Debug\Smith_10.6.exe.config
+D:\C# program files\Smith_10.6\Smith_10.6\bin\Debug\Smith_10.6.exe
+D:\C# program files\Smith_10.6\Smith_10.6\bin\Debug\Smith_10.6.pdb
+D:\C# program files\Smith_10.6\Smith_10.6\obj\Debug\Smith_10.6.csprojAssemblyReference.cache
+D:\C# program files\Smith_10.6\Smith_10.6\obj\Debug\Smith_10._6.Form1.resources
+D:\C# program files\Smith_10.6\Smith_10.6\obj\Debug\Smith_10._6.Properties.Resources.resources
+D:\C# program files\Smith_10.6\Smith_10.6\obj\Debug\Smith_10._6.TotalCharges.resources
+D:\C# program files\Smith_10.6\Smith_10.6\obj\Debug\Smith_10.6.csproj.GenerateResource.cache
+D:\C# program files\Smith_10.6\Smith_10.6\obj\Debug\Smith_10.6.csproj.CoreCompileInputs.cache
+D:\C# program files\Smith_10.6\Smith_10.6\obj\Debug\Smith_10.6.exe
+D:\C# program files\Smith_10.6\Smith_10.6\obj\Debug\Smith_10.6.pdb
